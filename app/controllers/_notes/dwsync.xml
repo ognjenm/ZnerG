@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name=".gitkeep" server="ftp.znerg.com/znerg/" local="130387009573720000" remote="130448341800000000" Dst="2" />
+<file name="AddressesController.php" server="ftp.znerg.com/znerg/" local="130451168032165609" remote="130451214600000000" Dst="2" />
+<file name="ActivitiesController.php" server="ftp.znerg.com/znerg/" local="130397283233557611" remote="130448341800000000" Dst="2" />
+<file name="ApplicationsController.php" server="ftp.znerg.com/znerg/" local="130385165463855654" remote="130448341800000000" Dst="2" />
+<file name="ArdentController.php" server="ftp.znerg.com/znerg/" local="130451134514365609" remote="130451214600000000" Dst="2" />
+<file name="ClientsController.php" server="ftp.znerg.com/znerg/" local="130385165277735654" remote="130448341800000000" Dst="2" />
+<file name="BusinessesController.php" server="ftp.znerg.com/znerg/" local="130447444651720000" remote="130448341800000000" Dst="2" />
+<file name="ContactsController.php" server="ftp.znerg.com/znerg/" local="130443859070221503" remote="130448341800000000" Dst="2" />
+<file name="BaseController.php" server="ftp.znerg.com/znerg/" local="130463811464096381" remote="130464254400000000" Dst="2" />
+<file name="DatabasesController.php" server="ftp.znerg.com/znerg/" local="130362199212600886" remote="130448341800000000" Dst="2" />
+<file name="FieldsController.php" server="ftp.znerg.com/znerg/" local="130440425637438247" remote="130448341800000000" Dst="2" />
+<file name="GroupsController.php" server="ftp.znerg.com/znerg/" local="130449135280490000" remote="130451214600000000" Dst="2" />
+<file name="HomeController.php" server="ftp.znerg.com/znerg/" local="130377854837820000" remote="130448341800000000" Dst="2" />
+<file name="LocationsController.php" server="ftp.znerg.com/znerg/" local="130399016220540000" remote="130448341800000000" Dst="2" />
+<file name="MetaDatasController.php" server="ftp.znerg.com/znerg/" local="130397284480877611" remote="130448341800000000" Dst="2" />
+<file name="OptionsController.php" server="ftp.znerg.com/znerg/" local="130391188455650000" remote="130448341800000000" Dst="2" />
+<file name="OrganizationParametersController.php" server="ftp.znerg.com/znerg/" local="130333384736067271" remote="130448341800000000" Dst="2" />
+<file name="OrganizationsController.php" server="ftp.znerg.com/znerg/" local="130396473674001562" remote="130448341800000000" Dst="2" />
+<file name="ParametersController.php" server="ftp.znerg.com/znerg/" local="130396499505371562" remote="130448341800000000" Dst="2" />
+<file name="PasswordController.php" server="ftp.znerg.com/znerg/" local="130314839734887874" remote="130448341800000000" Dst="2" />
+<file name="ProcessesController.php" server="ftp.znerg.com/znerg/" local="130397281635227611" remote="130448341800000000" Dst="2" />
+<file name="RolesController.php" server="ftp.znerg.com/znerg/" local="130397269195047611" remote="130448341800000000" Dst="2" />
+<file name="RulesController.php" server="ftp.znerg.com/znerg/" local="130380955836400000" remote="130448341800000000" Dst="2" />
+<file name="ScorecardsController.php" server="ftp.znerg.com/znerg/" local="130413692116063886" remote="130448341800000000" Dst="2" />
+<file name="StructuresController.php" server="ftp.znerg.com/znerg/" local="130391178003060000" remote="130448341800000000" Dst="2" />
+<file name="SupervisionsController.php" server="ftp.znerg.com/znerg/" local="130413691928333886" remote="130448341800000000" Dst="2" />
+<file name="TeamsController.php" server="ftp.znerg.com/znerg/" local="130397292960597611" remote="130448341800000000" Dst="2" />
+<file name="TasksController.php" server="ftp.znerg.com/znerg/" local="130472901567470000" remote="130472937600000000" Dst="2" />
+<file name="UserParametersController.php" server="ftp.znerg.com/znerg/" local="130333384833986498" remote="130448341800000000" Dst="2" />
+<file name="UsersController.php" server="ftp.znerg.com/znerg/" local="130397275405297611" remote="130448341800000000" Dst="2" />
+<file name="WorkflowsController.php" server="ftp.znerg.com/znerg/" local="130443887540551503" remote="130448341800000000" Dst="2" />
+<file name="_SearchController.php" server="ftp.znerg.com/znerg/" local="130387017071320000" remote="130448341800000000" Dst="2" />
+<file name="_TrackingsController.php" server="ftp.znerg.com/znerg/" local="130318043400000000" remote="130448341800000000" Dst="2" />
+<file name="_WorkflowController.php" server="ftp.znerg.com/znerg/" local="130333711984549087" remote="130448341800000000" Dst="2" />
+<file name="ReportsController.php" server="ftp.znerg.com/znerg/" local="130462937310820000" remote="130462973400000000" Dst="2" />
+</dwsync>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="menu.blade.php" server="ftp.znerg.com//znerg/" local="130296654380448892" remote="130297068000000000" Dst="1" />
+<file name="pagination.php" server="ftp.znerg.com//znerg/" local="130286226843789054" remote="130291869000000000" Dst="1" />
+<file name="addButtonModal.blade.php" server="ftp.znerg.com/znerg/" local="130399019008060000" remote="130448343000000000" Dst="2" />
+<file name="cancelButtonForm.blade.php" server="ftp.znerg.com/znerg/" local="130453483355617613" remote="130453521000000000" Dst="2" />
+<file name="cancelButtonModal.blade.php" server="ftp.znerg.com/znerg/" local="130457786782129665" remote="130457823600000000" Dst="2" />
+<file name="cancelButtonTabModal.blade.php" server="ftp.znerg.com/znerg/" local="130403314172105626" remote="130448343000000000" Dst="2" />
+<file name="customButtonForm.blade.php" server="ftp.znerg.com/znerg/" local="130463873542026381" remote="130464254400000000" Dst="2" />
+<file name="customButtonTable.blade.php" server="ftp.znerg.com/znerg/" local="130380155787013829" remote="130448343000000000" Dst="2" />
+<file name="customButtonTabTable.blade.php" server="ftp.znerg.com/znerg/" local="130403690864021630" remote="130448343000000000" Dst="2" />
+<file name="deleteButtonForm.blade.php" server="ftp.znerg.com/znerg/" local="130453483563607613" remote="130453521000000000" Dst="2" />
+<file name="deleteButtonTable.blade.php" server="ftp.znerg.com/znerg/" local="130462959010140000" remote="130462996200000000" Dst="2" />
+<file name="editButtonForm.blade.php" server="ftp.znerg.com/znerg/" local="130453483209847613" remote="130453521000000000" Dst="2" />
+<file name="editButtonTable.blade.php" server="ftp.znerg.com/znerg/" local="130403308470985626" remote="130448343000000000" Dst="2" />
+<file name="fieldPassword.blade.php" server="ftp.znerg.com/znerg/" local="130453482346447613" remote="130453521000000000" Dst="2" />
+<file name="fieldSelect.blade.php" server="ftp.znerg.com/znerg/" local="130466773271483614" remote="130466817600000000" Dst="2" />
+<file name="fieldSelectActive.blade.php" server="ftp.znerg.com/znerg/" local="130453481724147613" remote="130453521600000000" Dst="2" />
+<file name="fieldText.blade.php" server="ftp.znerg.com/znerg/" local="130466764952143614" remote="130466817600000000" Dst="2" />
+<file name="fieldTextActive.blade.php" server="ftp.znerg.com/znerg/" local="130457190064121600" remote="130457802600000000" Dst="2" />
+<file name="fieldTextarea.blade.php" server="ftp.znerg.com/znerg/" local="130453498767277613" remote="130453538400000000" Dst="2" />
+<file name="footTable.blade.php" server="ftp.znerg.com/znerg/" local="130458016332055687" remote="130458088200000000" Dst="2" />
+<file name="linkTable.blade.php" server="ftp.znerg.com/znerg/" local="130458645071013587" remote="130458685200000000" Dst="2" />
+<file name="mainMenu.blade.php" server="ftp.znerg.com/znerg/" local="130466780205943614" remote="130466817600000000" Dst="2" />
+<file name="menu.blade.php" server="ftp.znerg.com/znerg/" local="130457179481971600" remote="130464254400000000" Dst="2" />
+<file name="menuWebsite.blade.php" server="ftp.znerg.com/znerg/" local="130326804133868921" remote="130448343000000000" Dst="2" />
+<file name="messages.blade.php" server="ftp.znerg.com/znerg/" local="130463812081866381" remote="130464254400000000" Dst="2" />
+<file name="messagesModal.blade.php" server="ftp.znerg.com/znerg/" local="130326066048642594" remote="130448343000000000" Dst="2" />
+<file name="pagination.php" server="ftp.znerg.com/znerg/" local="130286226843789054" remote="130448343000000000" Dst="2" />
+<file name="saveButtonForm.blade.php" server="ftp.znerg.com/znerg/" local="130453484515217613" remote="130453522200000000" Dst="2" />
+<file name="searchBox.blade.php" server="ftp.znerg.com/znerg/" local="130456387382090000" remote="130456983000000000" Dst="2" />
+<file name="submenu.blade.php" server="ftp.znerg.com/znerg/" local="130453461765717613" remote="130453522200000000" Dst="2" />
+<file name="submenuDatabase.blade.php" server="ftp.znerg.com/znerg/" local="130390414687505769" remote="130448343000000000" Dst="2" />
+<file name="submenuFilters.blade.php" server="ftp.znerg.com/znerg/" local="130456375039670000" remote="130456983000000000" Dst="2" />
+<file name="submenuMetaData.blade.php" server="ftp.znerg.com/znerg/" local="130390735406515953" remote="130448343000000000" Dst="2" />
+<file name="submenuOrganization.blade.php" server="ftp.znerg.com/znerg/" local="130390414373345769" remote="130448343000000000" Dst="2" />
+<file name="submenuWorkflow.blade.php" server="ftp.znerg.com/znerg/" local="130468526969250000" remote="130468575600000000" Dst="2" />
+<file name="updateButtonForm.blade.php" server="ftp.znerg.com/znerg/" local="130453483953087613" remote="130453522200000000" Dst="2" />
+<file name="updateButtonModal.blade.php" server="ftp.znerg.com/znerg/" local="130453484345577613" remote="130453522200000000" Dst="2" />
+<file name="wfNewProcesses.blade.php" server="ftp.znerg.com/znerg/" local="130463762956260000" remote="130464254400000000" Dst="2" />
+<file name="customButton2Form.blade.php" server="ftp.znerg.com/znerg/" local="130464621493310000" remote="130464675600000000" Dst="2" />
+<file name="terminateButtonForm.blade.php" server="ftp.znerg.com/znerg/" local="130464612174080000" remote="130468575600000000" Dst="2" />
+</dwsync>

@@ -1,0 +1,628 @@
+body {
+/*  padding-top: 5px;
+  padding-bottom: 5px;
+*/  /*background-color: #eee;*/
+}
+
+.container {
+  padding: 0px;
+}
+.form-standard {
+  padding: 5px;
+  margin-top: 10px;
+}
+
+.form-control,
+.navbar-form {
+  padding: 0px !important;
+  margin: 0 auto;
+  display: block;
+
+}
+
+.row{
+  margin: 0px;
+}
+.nav {
+  padding: 0px;
+  margin: 0px;
+}
+
+.form-standard .form-standard-heading,
+.form-standard .checkbox {
+  margin-bottom: 10px;
+}
+.form-standard-heading {
+  padding-left: 14px;
+}
+.form-standard .checkbox {
+  font-weight: normal;
+}
+.form-standard .form-control {
+  position: relative;
+  font-size: 13px;
+  height: auto;
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.inline-control {
+  position: relative;
+  font-size: 9px;
+  height: auto;
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.form-standard .form-control:focus {
+  z-index: 2;
+}
+
+.form-standard input[type="text"],
+.form-control input[type="text"],
+.form-control input[type="password"],
+input[type="password"],
+select.form-control,
+textarea.form-control,
+.navbar-form input[type="text"]{
+/*  margin-bottom: -1px;
+*/  padding-left: 12px;
+  height: 27px !important;
+  margin-top: 3px !important;
+  margin-bottom: 3px !important;
+}
+
+select.selectpicker {
+  /*font-size: 1em !important;*/
+}
+
+button.searchBox {
+  margin-top: 3px !important;
+}
+/*.form-horizontal{
+  padding-left: 0px;
+  padding-right: 0px;
+  margin:0px !important;
+  padding:0px !important;
+}*/
+
+table, form {
+  font-size: 13px;
+}
+
+table thead tr th {
+  text-align: center;
+   
+}
+
+label {
+  font-weight: normal;
+  padding-top: 5px;
+  max-width: 120px;
+}
+
+table {
+  width: auto;
+}
+
+ul.nav > li > a {  
+  padding: 10px; 
+  margin: 0px;
+}
+
+/*div.row > div:first-child {
+  padding-left: 0px;
+}
+*/
+div.header {
+  margin: 0px;
+  padding: 0px;
+  padding-bottom: 5px;
+}
+
+div.header > .header-left {
+  padding-left: 10px;
+}
+
+div.header > .header-center {
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+div.header > .header-right {
+  padding-top: 5px;
+  padding-right: 0px;
+}
+
+p.welcome-name {
+  font-size: 0.85em;
+  margin: 0px !important;
+}
+
+p.header-company-title {
+  font-size: 1.4em;
+  padding-right: 15px;
+  margin: 0px !important;
+  font-weight: normal;
+}
+
+p.header-options {
+  font-size: 0.85em;
+  margin: 0px !important;
+}
+
+p.title-reference {
+  margin: 0px !important;
+}
+
+div.well {
+  margin-bottom: 5px;
+}
+
+div.title {
+  font-weight: bold; 
+/*  font-color: #888888;
+*/  border-width:1px;
+  /*border-bottom:thin solid #CCCCCC;*/
+  border-top-style: none;
+  padding: 5px;
+}
+
+h4 {
+  margin: 0px;
+  font-size: 0.95em;
+  font-weight: bold; 
+}
+
+h1, h2, h3 {
+  margin: 0px;
+}
+
+.pagination {
+  margin: 0px; 
+  padding: 0px;
+}
+
+/*form.navbar-form {
+  margin-top: 2px;
+  width: 255px;
+}*/
+
+form {
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+nav.navbar {
+  padding-top: 0px;
+  margin-bottom: 5px;
+  min-height: 36px;
+}
+
+div.collapse {
+  padding-bottom: 0px;
+  padding-top: 0px;
+  height: 34px;
+}
+
+div.message {
+  padding-right: 0px;
+  padding-left: 0px;
+}
+
+div.menu {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+table.table {
+  margin-bottom: 5px;
+}
+
+hr {
+  margin:0px;
+  padding: 0px;
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 1px solid #ddd;
+}
+
+.required:after {
+  content:"*";
+}
+
+.popover-title {
+font-weight: bold; 
+}
+
+.popover {
+  color: #000;
+}
+
+.no-decoration {
+  text-decoration: none !important;
+  color: #000; 
+}
+
+input.no-padding {
+  padding: 0px;  
+  margin:0px;
+  font-size: 13px;
+  height: 22px;
+}
+
+input.disabled
+{
+    background-color: #EEE;
+    font-color: #777;
+    color: #777;
+}
+
+input.enabled
+{
+    background-color: #FFF;
+    font-color: #000;
+    color: #000;
+}
+
+.nav-pills a {
+   padding-top: 5px  !important;  
+   padding-bottom: 5px  !important;  
+   margin: 0px  !important;
+
+}
+
+.nav-tabs a {
+   padding-top: 5px  !important;  
+   padding-bottom: 5px  !important;  
+   margin: 0px  !important;
+
+}
+
+.nav-pills li.level1 a {
+   font-size: 0.95em;
+}
+
+.nav-pills li.level2 a {
+   font-size: 0.90em;
+   padding-left: 15px;
+}
+
+.nav-pills li.level3 a {
+   font-size: 0.85em;
+   padding-left: 20px;
+}
+
+.nav-pills li.level4 a {
+   font-size: 0.80em;
+   padding-left: 25px;
+}
+
+div.footTable {
+  padding: 0px;
+  height: 32px;  
+  margin: 0px;
+}
+
+p.footTable {
+  padding-top: 6px;
+  margin-left: 0px;
+  padding-left: 0px;
+  font-size: 0.85em;
+}
+
+div.footText {
+  padding: 0px;
+  padding-left: 10px;
+}
+
+div.pagLocation {
+  padding: 0px;
+}
+
+div.subMenu {
+  padding-right: 0px;
+  padding-left: 5px;
+}
+
+.searchBox {
+  height: 27px !important;
+  padding-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+}
+
+.subMenu button {
+  height: 27px;
+  width: 60px;
+  padding: 0px;
+}
+
+/*form.subMenu {
+  width: 765px;
+}
+*/
+/*.datePicker {
+  z-index: 9999 !important;
+}
+
+.timePicker {
+  z-index: 9999 !important;
+}
+*/
+.modal-body div.well {
+  margin: 0px;
+}
+
+.modal-body form {
+  margin: 0px;
+  padding: 0px;
+}
+
+.ddSelector {
+  padding-bottom: 0px !important;
+}
+
+.selectpicker {
+  font-size: 13px;
+}
+
+input[disabled="disabled"]{
+    background-color: #EEE !important;
+    font-color: #999 !important;
+    color: #999 !important;
+    border-color: #DDD;
+}
+
+textarea[disabled="disabled"]{
+    background-color: #EEE !important;
+    font-color: #999 !important;
+    color: #999 !important;
+    border-color: #DDD;
+}
+
+button.selectpicker.disabled {
+    background-color: #DDD !important;
+    font-color: #666 !important;
+    color: #666 !important;
+}
+
+.menuButton {
+  padding-top: 5px !important;
+  padding-bottom: 5px !important;
+  font-size: 1em;
+}
+
+.mainMenu {
+  z-index: 999 !important;
+  height: 27px !important;
+  padding: 0px;
+  margin: 0px;
+}
+
+.mainContainer{
+  padding-left: 5px !important;
+  padding-right: 0px !important;
+}
+
+.leftMenu {
+  padding: 0px !important;
+/*  padding-bottom: 2px !important;
+  padding-right: 2px !important;
+*/}
+.navbar-brand {
+  padding-top: 3px !important;
+  height: 27px !important;  
+}
+
+.secondaryMenu {
+    z-index: 1 !important;
+}
+
+.navbar .nav li.dropdown.open > .dropdown-toggle,
+.navbar .nav li.dropdown.active > .dropdown-toggle,
+.navbar .nav li.dropdown.open.active > .dropdown-toggle
+{
+/*background-color: #428BCA !important;*/
+color: #FFFFFF;
+}
+
+li.active > a > b.caret
+{
+border-top-color: #FFFFFF !important;
+border-bottom-color: #FFFFFF !important;
+}
+
+.dropdown {
+  padding-left: 0px;
+}
+
+.linkMenu {
+  margin-top: 5px;
+}
+
+.linkMenu li p {
+  padding-top: 5px;
+  padding-left: 12px;
+  padding-bottom: 5px;
+  margin-top: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-bottom: 5px;
+}
+
+.linkMenu li:first-child {
+  background-color: #DDD !important;
+}
+
+li.listItems {
+  padding-left: 12px;
+  padding-bottom: 5px;
+  padding-top: 0px;
+  padding-right: 5px;
+  margin: 0px;
+}
+
+a.listItems {
+  padding: 0px !important;
+  margin: 0px !important;
+  font-size: 0.85em
+}
+
+div.alert, div.alert-warning {
+  padding: 5px !important;
+  margin-bottom: 5px !important;
+
+}
+
+div.alert a {
+  font-size: 1.4em
+}
+
+div.alert li {
+  list-style-type: none;
+}
+
+div.tab-pane {
+  padding-top: 15px;
+  padding-bottom: 10px;
+}
+
+.editButtons {
+  padding-top: 7px;
+}
+
+.btn {
+  margin: 5px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+
+.form-group {
+  margin-bottom: 10px;
+}
+
+.form-standard + .form-standard {
+  margin-top: 0px;
+}
+.form-standard {
+  margin: 0px;
+}
+
+.submitLink, .submitLink:hover {
+background-color: transparent;
+text-decoration: underline;
+border: none;
+color: #777777;
+cursor: pointer;
+padding: 0px;
+margin-top: 5px;
+margin-right: 3px;
+margin-left: 0px;
+}
+
+.ui-autocomplete {
+  max-height: 100px;
+  overflow-y: auto;
+  /* prevent horizontal scrollbar */
+  overflow-x: hidden;
+}
+/* IE 6 doesn't support max-height
+ * we use height instead, but this forces the menu to always be this tall
+ */
+* html .ui-autocomplete {
+  height: 100px;
+}
+
+/*.modal-dialog {
+  width: 700px;
+}
+*/
+.tab-content{
+  height: 100%;
+  width: 100%;
+}
+
+.map-container {
+  height: 100%;
+  width: 100%;
+}
+
+#map-canvas {
+  height: 100%;
+  width: 100%;
+  bottom:0;
+  top:0;
+  left:0;
+  right:0;
+  z-index: 0 !important;
+  }
+
+.navbar-toggle {
+  margin: 4px;
+  padding: 2px;
+}
+
+.navbar-option{
+  color: #FFF;
+  margin: 0px;
+  padding-left: 15px;
+  padding-top: 6px;
+  padding-right: 5px;
+}
+
+nav#mainMenu {
+  z-index: 10 !important; 
+}
+nav#secondaryMenu {
+  z-index: 3 !important; 
+}
+span.searchBox .btn {
+  margin: 0px;
+  padding: 0px;
+}
+
+td .btn {
+  margin: 0px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+td {
+  padding: 3px !important;
+}
+
+ul.ui-autocomplete.ui-menu li a{
+    font-size: 13px;
+}
+
+ul.ui-autocomplete.ui-menu li:first-child a{
+    color:blue;
+}
+
+body
+{
+ padding-bottom: 70px;
+}
+  
+.transparent {
+   background: rgba(0,0,0,0.1);
+}
+
+.progress
+{
+  margin: 0px;
+  padding: 0px;
+  margin-left: 0px;
+}
+
+.infoWindow
+{
+  font-size: 0.85em !important;
+}

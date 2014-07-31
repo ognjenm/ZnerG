@@ -188,6 +188,7 @@ Route::group(array('before' => 'auth|access'), function()
   Route::get('businesses/search', 'BusinessesController@getSearch');
   Route::resource('businesses', 'BusinessesController');
 
+
   // Contacts
   Route::get('contacts/search', 'ContactsController@getSearch');
   Route::resource('contacts', 'ContactsController');
